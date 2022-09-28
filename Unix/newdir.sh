@@ -1,4 +1,3 @@
-
 #creates set of dirs based on name of practical
 echo  "Enter name of practical, with underscores (no spaces)"
 read pracName
