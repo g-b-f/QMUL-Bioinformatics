@@ -10,5 +10,5 @@ mkdir input
 mkdir tmp
 mkdir results
 touch WHATIDID.TXT
-cd $dirName
+#cd $dirName #not sure why this doesn't work, cba to fix
 echo dir $dirName and files created.
